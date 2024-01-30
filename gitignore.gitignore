@@ -1,2 +1,6 @@
 # Ignoramos archivo "log_prueba.txt" en la raiz
 /log_prueba.txt
+
+*.log
+
+/modules/*
